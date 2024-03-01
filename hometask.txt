@@ -2,5 +2,8 @@
 
 комментарии коммитов с удаленного репозитория:
 master: 1. init
-        2. README added
-        3. fix readme
+        2. heat added
+        3. boots
+        4. README added
+        5. dots
+        6. fix readme
